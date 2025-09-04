@@ -14,8 +14,8 @@ const options: swaggerJsdoc.Options = {
     },
     servers: [
       { 
-        url: 'http://localhost:4000',
-        description: 'Development server'
+        url: 'https://healthcare-api-demo-3954ebc70eae.herokuapp.com',
+        description: 'Test Api server'
       }
     ],
     components: {
